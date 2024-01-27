@@ -31,6 +31,7 @@
 
 |Resource|Progress|
 |---|---|
+|[云原生](https://www.bilibili.com/video/BV13Q4y1C7hS/?p=3&vd_source=32913849623467f38bf144041bf93baa)||
 |[docker和k8s](https://www.bilibili.com/video/BV1GM411G7NM/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)|1/10|
 
 
@@ -39,3 +40,4 @@
 |Resource|Progress|
 |---|---|
 |[清华大学nlp刘知远课程](https://www.bilibili.com/video/BV1UG411p7zv/?spm_id_from=333.337.search-card.all.click&vd_source=32913849623467f38bf144041bf93baa)|3/10|
+|[机器学习入门](https://www.bilibili.com/video/BV1PN4y1V7d9?p=111&vd_source=32913849623467f38bf144041bf93baa)||
