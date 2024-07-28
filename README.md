@@ -20,6 +20,14 @@
 - LangChain入门指南
 - Agent
 
+### 数据挖掘
+
+- 数据挖掘相关课程及项目
+  
+### leetcode
+
+- [面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)
+
 
 ## Core Skills
 
