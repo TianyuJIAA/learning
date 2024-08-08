@@ -2,34 +2,36 @@
 
 日常学习内容记录-活到老学到老 ？
 
+收藏从未结束，学习从未开始。。。
+
+买书如山倒，读书如抽丝。。
+
 ## 大模型学习
 
 ### 基础知识
 
-- [GPT图解(大模型是怎么构建的)](https://book.douban.com/subject/36668702/) (99%)
-- 尚硅谷大模型课程前4课 (85%)
+- [GPT图解(大模型是怎么构建的)](https://book.douban.com/subject/36668702/) (100%)
+- 尚硅谷大模型课程前4课 (100%)
 - [清华大学nlp刘知远课程](https://www.bilibili.com/video/BV1UG411p7zv/?spm_id_from=333.337.search-card.all.click&vd_source=32913849623467f38bf144041bf93baa) (50%)
 - [大规模语言模型(从理论到实践)](https://book.douban.com/subject/36665417/)
 
 ### 部署 
 
-- 国内外大模型demo
+- [国内外大模型](https://github.com/TianyuJIAA/Awesome-Chinese-LLM)
 
 ### 应用
 
-- LangChain入门指南
+- LangChain
 - Agent
 
 ### 数据挖掘
 
-- 数据挖掘相关课程及项目
-  
+
+## Core Skills
+
 ### leetcode
 
 - [面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)
-
-
-## Core Skills
 
 ### 大数据框架
 
@@ -67,3 +69,11 @@
 |Resource|Progress|
 |---|---|
 |[机器学习入门](https://www.bilibili.com/video/BV1PN4y1V7d9?p=111&vd_source=32913849623467f38bf144041bf93baa)||
+
+## 博客
+
+### LLM
+
+[AI算力评价-TFLOPS](https://zhuanlan.zhihu.com/p/697192568)
+
+[FlashAttention](https://zhuanlan.zhihu.com/p/642962397)
